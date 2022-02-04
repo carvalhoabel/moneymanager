@@ -1,0 +1,2 @@
+# moneymanager
+Manage your earnings.
